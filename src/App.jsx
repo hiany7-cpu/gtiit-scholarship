@@ -23,13 +23,13 @@ const PROVINCE_DATA = {
   湖北省: { president: 5134, first: 9186, second: 20256, innoA: 30544 },
   湖南省: { president: 6028, first: 8082, second: 18383, innoA: 38072},
   福建省: { president: 4056, first: 6516, second: 13081, innoA: 25177 },
-  安徽省: { president: 6000, first: 12000, second: 20000, innoA: 45000 },
-  江西省: { president: 5500, first: 12000, second: 20000, innoA: 34000 },
-  浙江省: { president: 6000, first: 15000, second: 24000, innoA: 42000 },
-  重庆市: { president: 3000, first: 5000, second: 12000, innoA: 28000 },
-  北京市: { president: 3000, first: 6000, second: 8000, innoA: 12000 },
-  河北省: { president: 7800, first: 15000, second: 25000, innoA: 48000 },
-  上海市: { president: 3000, first: 6000, second: 8000, innoA: 10000 },
+  安徽省: { president: 6190, first: 12303, second: 20394, innoA: 45659 },
+  江西省: { president: 5673, first: 12041, second: 20353, innoA: 34418 },
+  浙江省: { president: 6108, first: 15393, second: 24152, innoA: 42828 },
+  重庆市: { president: 3061, first: 5046, second: 12260, innoA: 28442 },
+  北京市: { president: 3031, first: 6170, second: 8112, innoA: 12184 },
+  河北省: { president: 7927, first: 15009, second: 25720, innoA: 48769 },
+  上海市: { president: 3163, first: 6183, second: 8062, innoA: 10172 },
 };
 
 const ALL_PROVINCES = [
