@@ -12,23 +12,18 @@ import {
 } from "lucide-react";
 
 // ==========================================
-// 数据字典：精确核对的15个省排名对应奖学金门槛
+// 数据字典
 // ==========================================
 const PROVINCE_DATA = {
   广东省: { president: 9119, first: 16558, second: 25699, innoA: 46000 },
   江苏省: { president: 6090, first: 8204, second: 18045, innoA: 36291 },
-  山东省: { president: 6000, first: 12000, second: 22000, innoA: 36000 },
+  山东省: { president: 6146, first: 12075, second: 22035, innoA: 36199 },
   四川省: { president: 6000, first: 10000, second: 22000, innoA: 42000 },
   河南省: { president: 10000, first: 20000, second: 40000, innoA: 80000 },
   湖北省: { president: 5000, first: 9000, second: 20000, innoA: 30000 },
   湖南省: { president: 6000, first: 8000, text: 18000, second: 18000, innoA: 38000},
   福建省: { president: 4000, first: 6500, second: 13000, innoA: 25000 },
-  安徽省: {
-    president: 6000,
-    first: 12000,
-    second: 20000,
-    innoA: 45000,
-  },
+  安徽省: { president: 6000, first: 12000, second: 20000, innoA: 45000 },
   江西省: { president: 5500, first: 12000, second: 20000, innoA: 34000 },
   浙江省: { president: 6000, first: 15000, second: 24000, innoA: 42000 },
   重庆市: { president: 3000, first: 5000, second: 12000, innoA: 28000 },
