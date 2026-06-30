@@ -15,7 +15,7 @@ import {
 // 数据字典：精确核对的15个省排名对应奖学金门槛
 // ==========================================
 const PROVINCE_DATA = {
-  广东省: { president: 9000, first: 16000, second: 25000, innoA: 45000 },
+  广东省: { president: 9119, first: 16558, second: 25699, innoA: 46000 },
   江苏省: { president: 6000, first: 8000, second: 18000, innoA: 36000 },
   山东省: { president: 6000, first: 12000, second: 22000, innoA: 36000 },
   四川省: { president: 6000, first: 10000, second: 22000, innoA: 42000 },
